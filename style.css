@@ -1,0 +1,90 @@
+html {
+    background-color: white;
+    font-size: 14px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
+
+
+body {
+    font-size: 16px;
+    margin : 0;
+    font-family:sans-serif
+}
+
+
+h1 {
+    background-color: darkslategrey;
+    width:auto;
+    margin: auto;
+    display: block;
+    padding: 0;
+    border: 0;
+    color: white;
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
+}
+
+#citation {
+    text-align: center;
+}
+
+h3 {
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkslategrey;
+    margin-left: 10px;
+}
+h5 {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkslategrey;
+    margin-left: 10px;
+}
+
+p {
+    margin-left:10px;
+    margin-top: 10x ;
+}
+
+img {
+    margin: auto;
+    display: block;
+    border:  3px solid darkslategrey;
+    border-color: darkslategrey;
+}
+
+
+table {
+    table-layout: fixed;
+    width: 80%;
+    margin-left:10%;
+    margin-right: 10%;
+    border-collapse: collapse;
+   /* border: 3px solid darkslategrey;*/
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    background-color: darkslategrey;
+    box-shadow: 5px 5px 5px grey;
+    vertical-align: middle ;
+  }
+
+th {
+    letter-spacing: 1px;
+    vertical-align: baseline;
+}
+
+ul {
+    list-style-type: square;
+}
+
+li {
+    line-height: 2 ;
+}
+
+footer {
+    display:inline;
+}
